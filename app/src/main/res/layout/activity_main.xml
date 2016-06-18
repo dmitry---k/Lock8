@@ -11,8 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:src="@drawable/background"
-        android:scaleType="centerInside"
-        android:layout_centerInParent="true"
+        android:scaleType="centerCrop"
         />
 
     <android.support.design.widget.FloatingActionButton
